@@ -1,4 +1,4 @@
-const enum tokens{
+export const enum tokens{
     Wire,
     Button,
     Lamp,
